@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.changhe.testcode" />
+        <module name="leetcode_code" />
       </profile>
     </annotationProcessing>
   </component>

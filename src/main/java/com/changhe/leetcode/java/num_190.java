@@ -21,6 +21,7 @@ public class num_190 {
         char[] chars = s.toCharArray();
         for(int i=s.length()-1;i>=0;i--){
             flage += chars[i];
+
         }
         for(int j=0;j<length;j++){
             flage+= 0;
@@ -42,6 +43,7 @@ public class num_190 {
             ret += (n&1)<<power;
             n = n>>1;
             power -= 1;
+
         }
         return ret;
     }
@@ -59,4 +61,5 @@ public class num_190 {
         int i = 0xff00ff00;
         System.out.println(reverseBits_1(999));
     }
+
 }

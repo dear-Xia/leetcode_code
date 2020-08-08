@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66abc1b1-d60d-4d30-8c30-779de31d36ac" name="Default Changelist" comment="">
-<<<<<<< Updated upstream
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_186.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/nun_69.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_190.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_190.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode_code.kotlin_module" beforeDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_190.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_190.java" afterDir="false" />
->>>>>>> Stashed changes
-      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_409.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_409.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_389.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_461.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_461.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_476.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_190.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_190.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,49 +38,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_190.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_191.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -94,14 +47,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_191.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_190.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -113,89 +58,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="703" />
-    <option name="height" value="735" />
-  </component>
   <component name="ProjectId" id="1bRhMDJuDhRzLsd0kcj3gpeIw3z" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="changhe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="changhe" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="changhe" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -206,40 +69,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.num_191">
-    <configuration name="num_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_169" />
-      <module name="com.changhe.testcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="num_190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_190" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace/study_easy_project" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
@@ -247,36 +77,9 @@
       <recent name="D:\leetcode_code\src\main\java\com\changhe\leetcode\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.num_190">
-    <configuration name="num_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_1" />
->>>>>>> Stashed changes
-      <module name="com.changhe.testcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="num_191" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_191" />
-      <module name="com.changhe.testcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="num_190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_190" />
+  <component name="RunManager" selected="Application.nun_69">
+    <configuration name="num_461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_461" />
       <module name="leetcode_code" />
       <extension name="coverage">
         <pattern>
@@ -288,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_300" />
+    <configuration name="num_476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_476" />
       <module name="leetcode_code" />
       <extension name="coverage">
         <pattern>
@@ -301,8 +104,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_7" />
+    <configuration name="num_67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_67" />
+      <module name="leetcode_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="num_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_9" />
+      <module name="leetcode_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nun_69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.nun_69" />
       <module name="leetcode_code" />
       <extension name="coverage">
         <pattern>
@@ -316,18 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< Updated upstream
-        <item itemvalue="Application.num_191" />
-=======
->>>>>>> Stashed changes
-        <item itemvalue="Application.num_190" />
-        <item itemvalue="Application.num_7" />
-        <item itemvalue="Application.num_300" />
-        <item itemvalue="Application.num_169" />
-<<<<<<< Updated upstream
-=======
-        <item itemvalue="Application.num_1" />
->>>>>>> Stashed changes
+        <item itemvalue="Application.nun_69" />
+        <item itemvalue="Application.num_67" />
+        <item itemvalue="Application.num_9" />
+        <item itemvalue="Application.num_461" />
+        <item itemvalue="Application.num_476" />
       </list>
     </recent_temporary>
   </component>
@@ -364,60 +186,19 @@
       <workItem from="1590748719035" duration="8871000" />
       <workItem from="1590835348190" duration="3398000" />
       <workItem from="1590908315609" duration="20546000" />
-<<<<<<< Updated upstream
       <workItem from="1591488165909" duration="8305000" />
       <workItem from="1592751928987" duration="657000" />
       <workItem from="1592962744491" duration="586000" />
       <workItem from="1593327220384" duration="593000" />
       <workItem from="1593409486948" duration="2912000" />
       <workItem from="1593565894503" duration="5459000" />
-=======
       <workItem from="1591488165909" duration="11961000" />
       <workItem from="1593360514787" duration="4421000" />
       <workItem from="1594543158407" duration="1796000" />
->>>>>>> Stashed changes
+      <workItem from="1594570296483" duration="20225000" />
+      <workItem from="1596844921693" duration="1265000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10207000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16490166" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34812286" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32764506" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Jms Messenger" order="10" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -427,50 +208,55 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590908635711" />
+    <state x="529" y="117" key="CommitChangelistDialog2" timestamp="1594570581276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594570581276" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593526555966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593526555966" />
-    <state width="1877" height="236" key="GridCell.Tab.0.bottom" timestamp="1592919251490">
+    <state width="1281" height="233" key="GridCell.Tab.0.bottom" timestamp="1594913737040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592919251490" />
-    <state width="1877" height="236" key="GridCell.Tab.0.center" timestamp="1592919251490">
+    <state width="1281" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737040" />
+    <state width="1281" height="233" key="GridCell.Tab.0.center" timestamp="1594913737040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592919251490" />
-    <state width="1877" height="236" key="GridCell.Tab.0.left" timestamp="1592919251490">
+    <state width="1281" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737040" />
+    <state width="1281" height="233" key="GridCell.Tab.0.left" timestamp="1594913737039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592919251490" />
-    <state width="1877" height="236" key="GridCell.Tab.0.right" timestamp="1592919251490">
+    <state width="1281" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737039" />
+    <state width="1281" height="233" key="GridCell.Tab.0.right" timestamp="1594913737040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592919251490" />
-    <state width="1877" height="324" key="GridCell.Tab.1.bottom" timestamp="1591421076424">
+    <state width="1281" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737040" />
+    <state width="1281" height="154" key="GridCell.Tab.1.bottom" timestamp="1594824005999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591421076424" />
-    <state width="1877" height="324" key="GridCell.Tab.1.center" timestamp="1591421076424">
+    <state width="1281" height="154" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005999" />
+    <state width="1281" height="154" key="GridCell.Tab.1.center" timestamp="1594824005998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591421076424" />
-    <state width="1877" height="324" key="GridCell.Tab.1.left" timestamp="1591421076424">
+    <state width="1281" height="154" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005998" />
+    <state width="1281" height="154" key="GridCell.Tab.1.left" timestamp="1594824005998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591421076424" />
-    <state width="1877" height="324" key="GridCell.Tab.1.right" timestamp="1591421076424">
+    <state width="1281" height="154" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005998" />
+    <state width="1281" height="154" key="GridCell.Tab.1.right" timestamp="1594824005998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591421076424" />
+    <state width="1281" height="154" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005998" />
     <state x="772" y="175" key="Maven.ArtifactSearchDialog" timestamp="1591113311472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="772" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591113311472" />
-    <state x="977" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1593360522049">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1303" y="413" key="com.intellij.ide.util.TipDialog" timestamp="1596845120486">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="977" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593360522049" />
+    <state x="1303" y="413" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596845120486" />
     <state x="1039" y="219" key="run.anything.popup" timestamp="1588855906375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -486,60 +272,65 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/bull/online/huawei/illegalString.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/bull/online/huawei/other.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/bull/online/huawei/other.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/bull/online/huawei/zhishu.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/jianzhiOFFER/Num43.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/jianzhiOFFER/Num43.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/jianzhiOFFER/N_array_60.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../leetcode/leetcode/editor/cn/[36]有效的数独.java</url>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_169.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[300]最长上升子序列.java</url>
-          <properties />
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_389.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_476.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/nun_69.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -547,39 +338,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_191.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_190.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="ideajad">
     <property name="annotate" value="false" />

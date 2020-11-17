@@ -2,16 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66abc1b1-d60d-4d30-8c30-779de31d36ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/nun_69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_389.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_461.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_461.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_476.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_476.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/helanguopi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/helanguopi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/huaweijishi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/huaweijishi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/illegalString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/illegalString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/maxSon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/maxSon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/other.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/other.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/simplesplitstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/simplesplitstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/stage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/stage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/stringSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/stringSplit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/testtry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/testtry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/topN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/topN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/zhishu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/bull/online/huawei/zhishu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/javaclass/part5/day5/Array_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/javaclass/part5/day5/Array_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_121.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_136.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_136.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_141.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_141.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_155.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_155.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_160.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_160.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_169.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_169.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_190.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_190.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_191.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_191.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_203.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_203.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_206.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_206.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_231.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_231.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_232.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_232.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_234.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_234.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_255.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_255.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_268.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_268.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_300.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_300.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_342.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_342.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_371.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_371.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_389.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_389.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_409.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_409.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_461.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_461.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_476.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_476.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_496.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_496.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_543.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_543.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_67.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_67.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_682.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_682.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_83.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_83.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_836.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_836.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_844.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_844.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_876.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_876.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_933.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_933.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/nums_206.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/nums_206.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/nun_69.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/nun_69.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/jianzhiOFFER/Min_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/jianzhiOFFER/Min_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/jianzhiOFFER/N_array_60.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/jianzhiOFFER/N_array_60.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/jianzhiOFFER/Num43.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/jianzhiOFFER/Num43.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +99,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1bRhMDJuDhRzLsd0kcj3gpeIw3z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -77,9 +121,9 @@
       <recent name="D:\leetcode_code\src\main\java\com\changhe\leetcode\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nun_69">
-    <configuration name="num_461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_461" />
+  <component name="RunManager" selected="Application.num_11">
+    <configuration name="num_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_11" />
       <module name="leetcode_code" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_476" />
+    <configuration name="num_461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_461" />
       <module name="leetcode_code" />
       <extension name="coverage">
         <pattern>
@@ -145,25 +189,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.num_11" />
         <item itemvalue="Application.nun_69" />
         <item itemvalue="Application.num_67" />
         <item itemvalue="Application.num_9" />
         <item itemvalue="Application.num_461" />
-        <item itemvalue="Application.num_476" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -197,74 +229,46 @@
       <workItem from="1594543158407" duration="1796000" />
       <workItem from="1594570296483" duration="20225000" />
       <workItem from="1596844921693" duration="1265000" />
+      <workItem from="1605624011216" duration="2899000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1590908635711">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.0.bottom" timestamp="1605627729890">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590908635711" />
-    <state x="529" y="117" key="CommitChangelistDialog2" timestamp="1594570581276">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605627729890" />
+    <state width="1397" height="300" key="GridCell.Tab.0.center" timestamp="1605627729889">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="529" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594570581276" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593526555966">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605627729889" />
+    <state width="1397" height="300" key="GridCell.Tab.0.left" timestamp="1605627729889">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593526555966" />
-    <state width="1281" height="233" key="GridCell.Tab.0.bottom" timestamp="1594913737040">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605627729889" />
+    <state width="1397" height="300" key="GridCell.Tab.0.right" timestamp="1605627729890">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1281" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737040" />
-    <state width="1281" height="233" key="GridCell.Tab.0.center" timestamp="1594913737040">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605627729890" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1605627729890">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1281" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737040" />
-    <state width="1281" height="233" key="GridCell.Tab.0.left" timestamp="1594913737039">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605627729890" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1605627729890">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1281" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737039" />
-    <state width="1281" height="233" key="GridCell.Tab.0.right" timestamp="1594913737040">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1605627729890" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1605627729890">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1281" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594913737040" />
-    <state width="1281" height="154" key="GridCell.Tab.1.bottom" timestamp="1594824005999">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1605627729890" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1605627729890">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1281" height="154" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005999" />
-    <state width="1281" height="154" key="GridCell.Tab.1.center" timestamp="1594824005998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1281" height="154" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005998" />
-    <state width="1281" height="154" key="GridCell.Tab.1.left" timestamp="1594824005998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1281" height="154" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005998" />
-    <state width="1281" height="154" key="GridCell.Tab.1.right" timestamp="1594824005998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1281" height="154" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594824005998" />
-    <state x="772" y="175" key="Maven.ArtifactSearchDialog" timestamp="1591113311472">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="772" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591113311472" />
-    <state x="1303" y="413" key="com.intellij.ide.util.TipDialog" timestamp="1596845120486">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="977" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593360522049" />
-    <state x="1303" y="413" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596845120486" />
-    <state x="1039" y="219" key="run.anything.popup" timestamp="1588855906375">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1039" y="219" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588855906375" />
-    <state x="777" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1590908521241">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590908521241" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1605627729890" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,6 +335,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/nun_69.java</url>
           <line>10</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_11.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

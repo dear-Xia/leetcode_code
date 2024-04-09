@@ -1,0 +1,23 @@
+自己的题解：
+思路：
+
+select
+  trans_date as   month,
+  country,
+  count(*) as trans_count,
+  sum(if(state='approved',1,0)) as approved_count,
+  sum(amount) as trans_total_amount,
+  sum(if(state='approved',amount,0)) as approved_total_amount
+from
+(
+select
+    id,
+    country,
+    state,
+    amount,
+    left(trans_date,7) as trans_date
+from
+    Transactions
+) as t
+group by
+    t.trans_date,t.country

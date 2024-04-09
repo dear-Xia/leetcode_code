@@ -1,0 +1,87 @@
+自己的解法，思路：
+1，窗口函数，寻找首次下单的所有记录的delivery_id
+2，寻找首次下单里面的及时单
+3，计算比率
+select
+    round(mintotle/totle*100,2) as immediate_percentage
+from
+(
+    select
+        (
+            select
+                count(*)
+            from
+                Delivery
+            where
+                delivery_id
+            in
+            (
+                select
+                    distinct first_value(delivery_id) over(partition by customer_id order by order_date)
+                from
+                    Delivery
+            )
+        ) as totle,
+        (
+            select
+                count(*)
+            from
+                Delivery
+            where
+                delivery_id
+            in
+            (
+                select
+                    distinct first_value(delivery_id) over(partition by customer_id order by order_date)
+                from
+                    Delivery
+            )
+            and
+                order_date = customer_pref_delivery_date
+        )as mintotle
+    ) as t
+
+参考别人的代码，耗时非常完美
+思路：
+    1，使用多条件in筛选出来首次下单的内容
+    2，在select内使用DATEDIFF函数判断两个日期是否相同，外层嵌套if函数，判断是否datediff结果，true-1，false-null，sum函数获取所有满足条件的数量
+    3，count获取所有数据的数量
+SELECT
+    ROUND(
+        100*SUM(IF(DATEDIFF(D.order_date,D.customer_pref_delivery_date) = 0,1,NULL))
+        /
+        COUNT(D.delivery_id)
+        ,2)
+         AS immediate_percentage
+FROM
+    Delivery D
+where
+    (customer_id, order_date)
+ in (
+    select
+        customer_id,
+        min(order_date)
+    from
+        delivery
+    group by
+        customer_id
+)
+参考二：
+思路：
+    1，窗口函数，增加一个排序字段，rn为1表示首次订单
+    2，通过avg函数直接计算及时订单的比率*100
+select round(avg(order_date=customer_pref_delivery_date)*100,2) as immediate_percentage
+from (
+    select *,
+    row_number() over (partition by customer_id order by order_date )  as rn
+    from Delivery
+) a
+where a.rn=1
+参考三：和参考1类似
+select round(sum(order_date = customer_pref_delivery_date)*100/count(*), 2) as immediate_percentage
+from delivery
+where (customer_id, order_date) in(
+    select customer_id, min(order_date)
+    from delivery
+    group by customer_id
+)

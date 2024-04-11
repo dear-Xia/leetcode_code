@@ -20,7 +20,7 @@ public class num_144 {
         getResult(root.right,list);
     }
     public static void main(String[] args) {
-        TreeNode root1  = new TreeNode();
+        //TreeNode root1  = new TreeNode();
         TreeNode root2 = new TreeNode(1);
         root2.left = null;
         root2.right = new TreeNode(2);
@@ -30,7 +30,7 @@ public class num_144 {
         root3.left = null;
         root3.right = null;
 
-        preorderTraversal(root1);
+        //preorderTraversal(root1);
         preorderTraversal(root2);
         preorderTraversal(root3);
         System.out.println();

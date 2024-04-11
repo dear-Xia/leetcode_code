@@ -59,8 +59,8 @@ public class num_103 {
         root2.right.left.left = new TreeNode(6);
         root2.right.left.right = new TreeNode(7);
         root2.right.right = new TreeNode(4);
-        TreeNode treeNode = new TreeNode();
+        //TreeNode treeNode = new TreeNode();
         //zigzagLevelOrder(root2);
-        zigzagLevelOrder(treeNode);
+        //zigzagLevelOrder(treeNode);
     }
 }

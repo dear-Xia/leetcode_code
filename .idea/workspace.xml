@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66abc1b1-d60d-4d30-8c30-779de31d36ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/num_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/num_72.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,33 +68,7 @@
       <recent name="D:\leetcode_code\src\main\java\com\changhe\leetcode\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.num_64">
-    <configuration name="num_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_45" />
-      <module name="leetcode_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="num_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_53" />
-      <module name="leetcode_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.num_97">
     <configuration name="num_62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_62" />
       <module name="leetcode_code" />
@@ -136,13 +108,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="num_91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_91" />
+      <module name="leetcode_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="num_97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_97" />
+      <module name="leetcode_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changhe.leetcode.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.num_97" />
+        <item itemvalue="Application.num_91" />
         <item itemvalue="Application.num_64" />
         <item itemvalue="Application.num_63" />
         <item itemvalue="Application.num_62" />
-        <item itemvalue="Application.num_53" />
-        <item itemvalue="Application.num_45" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +187,7 @@
       <workItem from="1718248036760" duration="1844000" />
       <workItem from="1723883102422" duration="38000" />
       <workItem from="1723883164546" duration="11000" />
-      <workItem from="1723883202406" duration="24831000" />
+      <workItem from="1723883202406" duration="34313000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode code">
       <created>1712622089447</created>
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723976542790</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leetcode code">
+      <created>1724039416859</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724039416859</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,58 +242,58 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="30" key="CommitChangelistDialog2" timestamp="1723976542183">
+    <state x="330" y="30" key="CommitChangelistDialog2" timestamp="1724039415776">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="330" y="30" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1723976542183" />
-    <state width="1396" height="274" key="GridCell.Tab.0.bottom" timestamp="1724037008558">
+    <state x="330" y="30" key="CommitChangelistDialog2/0.0.1440.912@0.0.1440.912" timestamp="1724039415776" />
+    <state width="1396" height="274" key="GridCell.Tab.0.bottom" timestamp="1724147042441">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1724147042441" />
     <state width="1396" height="386" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1715589138581" />
-    <state width="1396" height="274" key="GridCell.Tab.0.center" timestamp="1724037008558">
+    <state width="1396" height="274" key="GridCell.Tab.0.center" timestamp="1724147042441">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1724147042441" />
     <state width="1396" height="386" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1715589138581" />
-    <state width="1396" height="274" key="GridCell.Tab.0.left" timestamp="1724037008558">
+    <state width="1396" height="274" key="GridCell.Tab.0.left" timestamp="1724147042441">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1724147042441" />
     <state width="1396" height="386" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1715589138580" />
-    <state width="1396" height="274" key="GridCell.Tab.0.right" timestamp="1724037008558">
+    <state width="1396" height="274" key="GridCell.Tab.0.right" timestamp="1724147042441">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1724147042441" />
     <state width="1396" height="386" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1715589138581" />
-    <state width="1396" height="274" key="GridCell.Tab.1.bottom" timestamp="1724037008558">
+    <state width="1396" height="274" key="GridCell.Tab.1.bottom" timestamp="1724147042768">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.1.bottom/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.1.bottom/0.0.1440.912@0.0.1440.912" timestamp="1724147042768" />
     <state width="1396" height="386" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1715589138581" />
-    <state width="1396" height="274" key="GridCell.Tab.1.center" timestamp="1724037008558">
+    <state width="1396" height="274" key="GridCell.Tab.1.center" timestamp="1724147042768">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.1.center/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.1.center/0.0.1440.912@0.0.1440.912" timestamp="1724147042768" />
     <state width="1396" height="386" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1715589138581" />
-    <state width="1396" height="274" key="GridCell.Tab.1.left" timestamp="1724037008558">
+    <state width="1396" height="274" key="GridCell.Tab.1.left" timestamp="1724147042768">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.1.left/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.1.left/0.0.1440.912@0.0.1440.912" timestamp="1724147042768" />
     <state width="1396" height="386" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1715589138581" />
-    <state width="1396" height="274" key="GridCell.Tab.1.right" timestamp="1724037008558">
+    <state width="1396" height="274" key="GridCell.Tab.1.right" timestamp="1724147042768">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state width="1396" height="274" key="GridCell.Tab.1.right/0.0.1440.912@0.0.1440.912" timestamp="1724037008558" />
+    <state width="1396" height="274" key="GridCell.Tab.1.right/0.0.1440.912@0.0.1440.912" timestamp="1724147042768" />
     <state width="1396" height="386" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1715589138581" />
-    <state x="313" y="189" key="Vcs.Push.Dialog.v2" timestamp="1723976555368">
+    <state x="313" y="189" key="Vcs.Push.Dialog.v2" timestamp="1724039434945">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="313" y="189" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1723976555368" />
-    <state x="425" y="243" key="git4idea.merge.GitPullDialog" timestamp="1723976549373">
+    <state x="313" y="189" key="Vcs.Push.Dialog.v2/0.0.1440.912@0.0.1440.912" timestamp="1724039434945" />
+    <state x="425" y="243" key="git4idea.merge.GitPullDialog" timestamp="1724039422578">
       <screen x="0" y="0" width="1440" height="912" />
     </state>
-    <state x="425" y="243" key="git4idea.merge.GitPullDialog/0.0.1440.912@0.0.1440.912" timestamp="1723976549373" />
+    <state x="425" y="243" key="git4idea.merge.GitPullDialog/0.0.1440.912@0.0.1440.912" timestamp="1724039422578" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -490,6 +495,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_64.java</url>
           <line>4</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_91.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_97.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

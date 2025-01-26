@@ -18,6 +18,23 @@ public class num_543 {
         return Math.max(L, R) + 1; // 返回该节点为根的子树的深度
     }
 
+    public int diameterOfBinaryTree1(TreeNode root) {
+        if(root == null){
+            return 0;
+        }
+        int l = diameterOfBinaryTree1(root.left);
+        int r = diameterOfBinaryTree1(root.right);
+        return l+r+1;
+    }
+
+    public int caculate(TreeNode root,Integer ints){
+        //计算根节点的深度
+        if(root == null){
+            return 0;
+        }
+       return 0;
+    }
+
 
     public static void main(String[] args) {
 

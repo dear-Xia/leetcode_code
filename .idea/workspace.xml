@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="66abc1b1-d60d-4d30-8c30-779de31d36ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/labuladong/shuangzhizhenlianbiao/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/labuladong/shuangzhizhenlianbiao/num_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/labuladong/shuangzhizhenlianbiao/num_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/labuladong/shuangzhizhenlianbiao/num_86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/num_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_563.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_572.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_590.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_637.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_671.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_703.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_783.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_872.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_897.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_938.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_965.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_993.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/num_104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_543.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_543.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_543.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_836.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/changhe/leetcode/java/num_836.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,34 +81,35 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1bRhMDJuDhRzLsd0kcj3gpeIw3z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace/spring6" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/workspace_myself/leetcode_code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\leetcode_code\src\main\java\com\changhe\leetcode\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.num_4">
-    <configuration name="num_120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_120" />
-      <module name="leetcode_code" />
+  <component name="RunManager" selected="Application.num_872">
+    <configuration name="num_257" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_257" />
+      <module name="com.changhe.testcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.changhe.leetcode.java.*" />
@@ -90,9 +120,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_131" />
-      <module name="leetcode_code" />
+    <configuration name="num_501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_501" />
+      <module name="com.changhe.testcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.changhe.leetcode.java.*" />
@@ -103,9 +133,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_2" />
-      <module name="leetcode_code" />
+    <configuration name="num_872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_872" />
+      <module name="com.changhe.testcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.changhe.leetcode.java.*" />
@@ -116,9 +146,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_4" />
-      <module name="leetcode_code" />
+    <configuration name="num_965" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_965" />
+      <module name="com.changhe.testcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.changhe.leetcode.java.*" />
@@ -129,9 +159,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_97" />
-      <module name="leetcode_code" />
+    <configuration name="num_993" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhe.leetcode.java.num_993" />
+      <module name="com.changhe.testcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.changhe.leetcode.java.*" />
@@ -144,14 +174,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.num_4" />
-        <item itemvalue="Application.num_2" />
-        <item itemvalue="Application.num_131" />
-        <item itemvalue="Application.num_120" />
-        <item itemvalue="Application.num_97" />
+        <item itemvalue="Application.num_872" />
+        <item itemvalue="Application.num_965" />
+        <item itemvalue="Application.num_993" />
+        <item itemvalue="Application.num_501" />
+        <item itemvalue="Application.num_257" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -201,6 +232,7 @@
       <workItem from="1735567833841" duration="15000" />
       <workItem from="1735567865389" duration="19180000" />
       <workItem from="1736989291409" duration="22124000" />
+      <workItem from="1737449833456" duration="40263000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode code">
       <created>1712622089447</created>
@@ -262,53 +294,11 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode code" />
     <option name="LAST_COMMIT_MESSAGE" value="leetcode code" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="648" y="316" key="#xdebugger.evaluate" timestamp="1737095074769">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state x="648" y="316" key="#xdebugger.evaluate/0.0.1440.912@0.0.1440.912" timestamp="1737095074769" />
-    <state x="501" y="211" key="FileChooserDialogImpl" timestamp="1728546256142">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state x="501" y="211" key="FileChooserDialogImpl/0.0.1440.912@0.0.1440.912" timestamp="1728546256142" />
-    <state width="1396" height="305" key="GridCell.Tab.0.bottom" timestamp="1737095117392">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.0.bottom/0.0.1440.912@0.0.1440.912" timestamp="1737095117392" />
-    <state width="1396" height="305" key="GridCell.Tab.0.center" timestamp="1737095117392">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.0.center/0.0.1440.912@0.0.1440.912" timestamp="1737095117392" />
-    <state width="1396" height="305" key="GridCell.Tab.0.left" timestamp="1737095117392">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.0.left/0.0.1440.912@0.0.1440.912" timestamp="1737095117392" />
-    <state width="1396" height="305" key="GridCell.Tab.0.right" timestamp="1737095117392">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.0.right/0.0.1440.912@0.0.1440.912" timestamp="1737095117392" />
-    <state width="1396" height="305" key="GridCell.Tab.1.bottom" timestamp="1737095117556">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.1.bottom/0.0.1440.912@0.0.1440.912" timestamp="1737095117556" />
-    <state width="1396" height="305" key="GridCell.Tab.1.center" timestamp="1737095117556">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.1.center/0.0.1440.912@0.0.1440.912" timestamp="1737095117556" />
-    <state width="1396" height="305" key="GridCell.Tab.1.left" timestamp="1737095117556">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.1.left/0.0.1440.912@0.0.1440.912" timestamp="1737095117556" />
-    <state width="1396" height="305" key="GridCell.Tab.1.right" timestamp="1737095117556">
-      <screen x="0" y="0" width="1440" height="912" />
-    </state>
-    <state width="1396" height="305" key="GridCell.Tab.1.right/0.0.1440.912@0.0.1440.912" timestamp="1737095117556" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,6 +540,41 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_4.java</url>
           <line>84</line>
           <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_257.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_257.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_501.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_501.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_993.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_965.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/changhe/leetcode/java/num_872.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

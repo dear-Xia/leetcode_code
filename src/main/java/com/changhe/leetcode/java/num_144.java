@@ -19,6 +19,20 @@ public class num_144 {
         getResult(root.left,list);
         getResult(root.right,list);
     }
+
+    public static List<Integer> preorderTraversalNew(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        getResultNew(root,list);
+        return list;
+    }
+    public static void getResultNew(TreeNode root, List list){
+        if(root == null){
+            return;
+        }
+        list.add(root.val);
+        getResultNew(root.left,list);
+        getResultNew(root.right, list);
+    }
     public static void main(String[] args) {
         //TreeNode root1  = new TreeNode();
         TreeNode root2 = new TreeNode(1);
